@@ -3,6 +3,7 @@
 
 #### As the title says it's a simple tank game, with the following features:
 
+> - C++ and Blueprints
 > - 3C’s (Character, Camera, Control).
 > - AI Behavior using behavior tree.
 > - HUD widget.
