@@ -8,7 +8,9 @@
 > - C++ and Blueprints
 > - 3C’s (Character, Camera, Control).
 > - AI Behavior using behavior tree.
+> - Game Mode, win and lose condition
 > - HUD widget.
+> - Sound Fx's
 
 
 - Here is a link to a [video](https://drive.google.com/file/d/1h8V3au8Hflqy51vw9bgvysFhtsfCVqAV/view) of this game.
