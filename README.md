@@ -3,6 +3,9 @@
 
 ### Single Player Game
 
+> ###### Summary:
+> *It's simple combat tank game, which the objective is to defeat all enemy turrets before they destroy you.*
+
 #### As the title says it's a simple tank game, with the following features:
 
 > - C++ and Blueprints
